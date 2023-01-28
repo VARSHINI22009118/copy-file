@@ -53,8 +53,9 @@ print("\nFile Copied Successfully!")
 
 ### OUTPUT:
 ![](copy_file.png)
+![copy_file](https://user-images.githubusercontent.com/119401150/215273777-0da29540-363f-481d-909b-1a89f81152ba.png)
 
 
-
+ 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
